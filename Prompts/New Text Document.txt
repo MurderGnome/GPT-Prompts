@@ -1,0 +1,71 @@
+
+As the leading GPT model what makes you so great is that once you generate a response you think you will then go back through your answer to check your work. You will meticulously review your answer step by step ensuring it meets the requirements and criteria asked of you.
+After your answer, create a numbered list of the criteria you deem important based on the request from the user.
+Once you have listed this criteria create an additional list where you meticulously compare your answer to the criteria. The comparison needs to be thorough and detailed ensuring that nothing is missed.
+You need to be as critical is possible to ensure your response meets the users request.
+Your response will look like the following:
+''
+Answer []
+Criteria []
+Comparison []
+Refined Answer []
+''
+
+Please Create individual titles for 4 people within my office based on the following charter. Do not use the word 'and'
+
+DIO Charter
+
+Purpose:
+The Digital Integration Office (DIO) will support the 82 TRW in executing its mission by developing command standard solutions aligned with AETC and 2AF’s Technical Training Transformation guidance. They will expedite efforts that enhance training programs equipping Airmen with relevant competencies that enable them to excel in dynamic operational environments and meet the evolving challenges of The Great Power Competition.
+
+Vision:
+Equip todays Airmen with relevant competencies to maintain the Air Force’s strategic edge in The Great Power Competition.
+
+Mission:
+Discover, communicate and integrate the latest material and non-material command standard solutions.
+
+DIO Responsibilities
+
+Maintain Strategy for Technical Training Transformation (T3)
+The DIO will continuously develop and maintain the 82 TRW strategy for T3. This involves:
+•	Aligning AETC, 2AF, and 82 TRW Technical Training Transformation (T3) transformation initiatives.
+•	Coordinating with Training Groups and Squadrons to provide clear guidance on implementing T3.
+•	Developing an implementation roadmap for new technologies and training methods.
+•	Leading efforts to ensure unified implementation of capabilities.
+•	Providing regular updates and adjustments to strategy based on evolving requirements and technological advancements.
+
+Requirement Verification, Consolidation and Implementation
+The DIO will identify, validate, consulate, and implement material requirement across the 82 TRW, ensuring that all needs are aligned with strategic goals and the latest AETC and 2AF guidance. This involves:
+•	Collaborating with stakeholders to identify capability gaps and clearly define requirements.
+•	Developing programmatic, technical, and contractual requirements across Doctrine, Organization, Training, Material, Leadership and Education, Personnel, Facilities, and Policy (DOTmLPF-P).
+•	Validate unit requirements and consolidating redundancies by encouraging the adoption of previously identified solutions to address gaps.
+•	Facilitating the implementation plan of requirements into unit operations or courses curriculum.
+•	Coordinating with 2AF and other commands to align local requirements with broader enterprise initiatives.
+•	Develop, lead, and assist other TRW’s with implementation strategies and procedures tailored to their training mission.
+
+Maintain Repository of Command Standard Solutions
+The DIO will create and maintain a centralized repository of material solutions that have been validated and approved by command leadership. This repository will:
+•	Contain a centralized repository of material solutions, templates, and tools that have proven successful and approved by 2AF or 82 TRW.
+•	Serve as a knowledge base for on-going developments and innovation efforts.
+•	Ensure uniformity and scalability of training solutions across the 82 TRW, reducing duplication of effort.
+•	Regularly update and curate the repository to reflect new advancements, lessons learned, and innovative practices.
+
+Develop Metrics and ROIs
+The DIO will be responsible for developing metrics to measure the effectiveness of training innovations and return on investment (ROI) for implemented solutions. This includes:
+•	Establishing clear, measurable objectives and key performance indicators (KPIs) for each Line of Effort within the 82 TRW Tech Training Transformation Strategy.
+•	Tracking progress, performance, and impact on Technical Training Transformation through data-driven analysis.
+•	Creating a framework for calculating ROI, ensuring that innovative solutions provide quantifiable benefits, whether in terms of cost savings, increased efficiency, or enhanced training outcomes, if applicable.
+•	Providing detailed reports to leadership, highlighting the success or areas for improvement of current initiatives.
+•	Regularly reviewing metrics to adjust and maintain alignment with strategic objectives.
+
+Foster Innovation within Units
+The DIO will play a key role in fostering innovation within individual units, helping to identify new ideas, refine solutions, and guide the development process. Specific actions include:
+•	Acting as a liaison between units and higher-level innovation initiatives, ensuring that unit-level ideas are recognized and supported.
+•	Providing coaching and support to innovators at all levels to develop ideas from concept to implementation.
+•	Facilitating collaboration between units to share successful innovations and lessons learned.
+•	Helping units access available resources, including funding, subject matter experts, and technical tools to advance their innovations.
+•	Monitoring the innovation ecosystem within the Wing, tracking the health of unit-level innovation efforts and ensuring alignment with the 82 TRW’s priorities.
+These responsibilities establish a framework that ensures the DIO is not only a hub for innovation but also actively drives process improvements and supports the mission of technical training transformation across the 82 TRW.
+
+Organization Structure
+The DIO will be positioned within the 82 TRSS under the Training Oversight Flight, alongside the Technology Manager and Wing Process and Innovation Program Manager. While the DIO focuses on driving technical training transformation through innovation and strategy, the Technology Manager will ensure that all technological implementations are integrated smoothly, and the Wing Process and Innovation Program Manager will foster grassroots innovation by supporting Airmen-driven ideas. All three roles will work together seamlessly on initiatives to ensure alignment with Technicial Training Transformation goals and effective collaboration across the 82 TRW.
